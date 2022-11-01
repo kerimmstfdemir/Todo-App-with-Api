@@ -1,3 +1,7 @@
+### Live Deployed Version
+
+- https://todo-app-react-api.netlify.app/
+
 ### API Base URL
 
 -  https://635b9fbeaa7c3f113dc1c37c.mockapi.io/todoapi/todos
